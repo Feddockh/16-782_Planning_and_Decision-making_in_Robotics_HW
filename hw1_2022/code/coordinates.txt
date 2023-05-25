@@ -1,0 +1,523 @@
+of '
+e of '
+nce of '
+tance of '
+nstance of '
+ instance of '
+an instance of '
+g an instance of '
+ing an instance of '
+owing an instance of '
+hrowing an instance of '
+ throwing an instance of '
+er throwing an instance of '
+fter throwing an instance of '
+ after throwing an instance of '
+ed after throwing an instance of '
+lled after throwing an instance of '
+called after throwing an instance of '
+e called after throwing an instance of '
+ate called after throwing an instance of '
+inate called after throwing an instance of '
+rminate called after throwing an instance of '
+terminate called after throwing an instance of '
+
+
+
+ly
+
+vely
+
+sively
+
+ursively
+
+ecursively
+
+ recursively
+
+ed recursively
+
+lled recursively
+
+called recursively
+
+e called recursively
+
+ate called recursively
+
+inate called recursively
+
+rminate called recursively
+
+terminate called recursively
+
+
+
+
+
+
+
+÷ÿ
+¡d÷ÿ
+÷ÿ¡d÷ÿ
+0e÷ÿ¡d÷ÿ
+÷ÿ0e÷ÿ¡d÷ÿ
+Ğd÷ÿ0e÷ÿ¡d÷ÿ
+÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+@e÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+÷ÿ@e÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+e÷ÿ@e÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+÷ÿe÷ÿ@e÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+e÷ÿe÷ÿ@e÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+÷ÿe÷ÿe÷ÿ@e÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+e÷ÿe÷ÿe÷ÿ@e÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+÷ÿe÷ÿe÷ÿe÷ÿ@e÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+e÷ÿe÷ÿe÷ÿe÷ÿ@e÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+÷ÿe÷ÿe÷ÿe÷ÿe÷ÿ@e÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+¡d÷ÿe÷ÿe÷ÿe÷ÿe÷ÿ@e÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+÷ÿ¡d÷ÿe÷ÿe÷ÿe÷ÿe÷ÿ@e÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+ e÷ÿ¡d÷ÿe÷ÿe÷ÿe÷ÿe÷ÿ@e÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+÷ÿ e÷ÿ¡d÷ÿe÷ÿe÷ÿe÷ÿe÷ÿ@e÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+e÷ÿ e÷ÿ¡d÷ÿe÷ÿe÷ÿe÷ÿe÷ÿ@e÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+÷ÿe÷ÿ e÷ÿ¡d÷ÿe÷ÿe÷ÿe÷ÿe÷ÿ@e÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+àd÷ÿe÷ÿ e÷ÿ¡d÷ÿe÷ÿe÷ÿe÷ÿe÷ÿ@e÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+÷ÿàd÷ÿe÷ÿ e÷ÿ¡d÷ÿe÷ÿe÷ÿe÷ÿe÷ÿ@e÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+¡d÷ÿàd÷ÿe÷ÿ e÷ÿ¡d÷ÿe÷ÿe÷ÿe÷ÿe÷ÿ@e÷ÿĞd÷ÿ0e÷ÿ¡d÷ÿ
+
+
+
+
+ø@
+
+
+
+
+
+
+
+se
+ose
+tpose
+getpose
+argetpose
+dtargetpose
+lidtargetpose
+validtargetpose
+invalidtargetpose
+r:invalidtargetpose
+ner:invalidtargetpose
+nner:invalidtargetpose
+nner:invalidtargetpose
+lanner:invalidtargetpose
+:planner:invalidtargetpose
+AB:planner:invalidtargetpose
+TLAB:planner:invalidtargetpose
+MATLAB:planner:invalidtargetpose
+
+
+.
+ 2.
+by 2.
+1 by 2.
+e 1 by 2.
+ be 1 by 2.
+ld be 1 by 2.
+ould be 1 by 2.
+should be 1 by 2.
+r should be 1 by 2.
+tor should be 1 by 2.
+ector should be 1 by 2.
+ vector should be 1 by 2.
+se vector should be 1 by 2.
+pose vector should be 1 by 2.
+etpose vector should be 1 by 2.
+rgetpose vector should be 1 by 2.
+targetpose vector should be 1 by 2.
+
+
+
+
+aj
+traj
+ettraj
+rgettraj
+targettraj
+idtargettraj
+alidtargettraj
+nvalidtargettraj
+:invalidtargettraj
+er:invalidtargettraj
+nner:invalidtargettraj
+lanner:invalidtargettraj
+:planner:invalidtargettraj
+AB:planner:invalidtargettraj
+TLAB:planner:invalidtargettraj
+MATLAB:planner:invalidtargettraj
+
+
+.
+ 2.
+by 2.
+M by 2.
+e M by 2.
+ be M by 2.
+ld be M by 2.
+ould be M by 2.
+should be M by 2.
+r should be M by 2.
+tor should be M by 2.
+ector should be M by 2.
+ vector should be M by 2.
+aj vector should be M by 2.
+traj vector should be M by 2.
+ettraj vector should be M by 2.
+rgettraj vector should be M by 2.
+targettraj vector should be M by 2.
+e
+ose
+tpose
+botpose
+robotpose
+idrobotpose
+alidrobotpose
+nvalidrobotpose
+:invalidrobotpose
+er:invalidrobotpose
+nner:invalidrobotpose
+lanner:invalidrobotpose
+:planner:invalidrobotpose
+AB:planner:invalidrobotpose
+TLAB:planner:invalidrobotpose
+MATLAB:planner:invalidrobotpose
+
+
+
+2.
+y 2.
+ by 2.
+ 1 by 2.
+be 1 by 2.
+d be 1 by 2.
+uld be 1 by 2.
+hould be 1 by 2.
+ should be 1 by 2.
+or should be 1 by 2.
+ctor should be 1 by 2.
+vector should be 1 by 2.
+e vector should be 1 by 2.
+ose vector should be 1 by 2.
+tpose vector should be 1 by 2.
+botpose vector should be 1 by 2.
+robotpose vector should be 1 by 2.
+
+
+s
+lhs
+axlhs
+:maxlhs
+er:maxlhs
+nner:maxlhs
+lanner:maxlhs
+:planner:maxlhs
+AB:planner:maxlhs
+TLAB:planner:maxlhs
+MATLAB:planner:maxlhs
+.
+ed.
+ired.
+quired.
+required.
+t required.
+ent required.
+ument required.
+rgument required.
+ argument required.
+ut argument required.
+tput argument required.
+output argument required.
+e output argument required.
+One output argument required.
+s
+uts
+nputs
+mInputs
+NumInputs
+idNumInputs
+alidNumInputs
+nvalidNumInputs
+:invalidNumInputs
+er:invalidNumInputs
+nner:invalidNumInputs
+lanner:invalidNumInputs
+:planner:invalidNumInputs
+AB:planner:invalidNumInputs
+TLAB:planner:invalidNumInputs
+MATLAB:planner:invalidNumInputs
+
+
+
+
+
+
+÷ÿ
+Ñd÷ÿ
+÷ÿÑd÷ÿ
+`e÷ÿÑd÷ÿ
+÷ÿ`e÷ÿÑd÷ÿ
+
+÷ÿ
+pe÷ÿ
+÷ÿpe÷ÿ
+Àe÷ÿpe÷ÿ
+÷ÿÀe÷ÿpe÷ÿ
+Àe÷ÿÀe÷ÿpe÷ÿ
+÷ÿÀe÷ÿÀe÷ÿpe÷ÿ
+Àe÷ÿÀe÷ÿÀe÷ÿpe÷ÿ
+÷ÿÀe÷ÿÀe÷ÿÀe÷ÿpe÷ÿ
+Àe÷ÿÀe÷ÿÀe÷ÿÀe÷ÿpe÷ÿ
+÷ÿÀe÷ÿÀe÷ÿÀe÷ÿÀe÷ÿpe÷ÿ
+Ñd÷ÿÀe÷ÿÀe÷ÿÀe÷ÿÀe÷ÿpe÷ÿ
+÷ÿÑd÷ÿÀe÷ÿÀe÷ÿÀe÷ÿÀe÷ÿpe÷ÿ
+Pe÷ÿÑd÷ÿÀe÷ÿÀe÷ÿÀe÷ÿÀe÷ÿpe÷ÿ
+÷ÿPe÷ÿÑd÷ÿÀe÷ÿÀe÷ÿÀe÷ÿÀe÷ÿpe÷ÿ
+@e÷ÿPe÷ÿÑd÷ÿÀe÷ÿÀe÷ÿÀe÷ÿÀe÷ÿpe÷ÿ
+÷ÿ@e÷ÿPe÷ÿÑd÷ÿÀe÷ÿÀe÷ÿÀe÷ÿÀe÷ÿpe÷ÿ
+e÷ÿ@e÷ÿPe÷ÿÑd÷ÿÀe÷ÿÀe÷ÿÀe÷ÿÀe÷ÿpe÷ÿ
+÷ÿe÷ÿ@e÷ÿPe÷ÿÑd÷ÿÀe÷ÿÀe÷ÿÀe÷ÿÀe÷ÿpe÷ÿ
+Ñd÷ÿe÷ÿ@e÷ÿPe÷ÿÑd÷ÿÀe÷ÿÀe÷ÿÀe÷ÿÀe÷ÿpe÷ÿ
+ø@Ñd÷ÿe÷ÿ@e÷ÿPe÷ÿÑd÷ÿÀe÷ÿÀe÷ÿÀe÷ÿÀe÷ÿpe÷ÿ
+
+
+
+
+
+
+
+se
+pose
+etpose
+rgetpose
+targetpose
+idtargetpose
+alidtargetpose
+nvalidtargetpose
+:invalidtargetpose
+er:invalidtargetpose
+nner:invalidtargetpose
+lanner:invalidtargetpose
+:planner:invalidtargetpose
+AB:planner:invalidtargetpose
+TLAB:planner:invalidtargetpose
+MATLAB:planner:invalidtargetpose
+
+
+.
+ 2.
+by 2.
+1 by 2.
+e 1 by 2.
+ be 1 by 2.
+ld be 1 by 2.
+ould be 1 by 2.
+should be 1 by 2.
+r should be 1 by 2.
+tor should be 1 by 2.
+ector should be 1 by 2.
+ vector should be 1 by 2.
+se vector should be 1 by 2.
+pose vector should be 1 by 2.
+etpose vector should be 1 by 2.
+rgetpose vector should be 1 by 2.
+targetpose vector should be 1 by 2.
+
+
+
+
+aj
+traj
+ettraj
+rgettraj
+targettraj
+dtargettraj
+lidtargettraj
+validtargettraj
+invalidtargettraj
+r:invalidtargettraj
+ner:invalidtargettraj
+anner:invalidtargettraj
+planner:invalidtargettraj
+B:planner:invalidtargettraj
+LAB:planner:invalidtargettraj
+TLAB:planner:invalidtargettraj
+TLAB:planner:invalidtargettraj
+MATLAB:planner:invalidtargettraj
+
+
+.
+ 2.
+by 2.
+M by 2.
+e M by 2.
+ be M by 2.
+ld be M by 2.
+ould be M by 2.
+should be M by 2.
+r should be M by 2.
+tor should be M by 2.
+ector should be M by 2.
+ vector should be M by 2.
+aj vector should be M by 2.
+traj vector should be M by 2.
+ettraj vector should be M by 2.
+rgettraj vector should be M by 2.
+targettraj vector should be M by 2.
+e
+ose
+tpose
+botpose
+robotpose
+idrobotpose
+alidrobotpose
+nvalidrobotpose
+:invalidrobotpose
+er:invalidrobotpose
+nner:invalidrobotpose
+lanner:invalidrobotpose
+:planner:invalidrobotpose
+AB:planner:invalidrobotpose
+TLAB:planner:invalidrobotpose
+MATLAB:planner:invalidrobotpose
+
+
+
+2.
+y 2.
+ by 2.
+ 1 by 2.
+be 1 by 2.
+d be 1 by 2.
+uld be 1 by 2.
+hould be 1 by 2.
+ should be 1 by 2.
+or should be 1 by 2.
+ctor should be 1 by 2.
+vector should be 1 by 2.
+e vector should be 1 by 2.
+ose vector should be 1 by 2.
+tpose vector should be 1 by 2.
+botpose vector should be 1 by 2.
+robotpose vector should be 1 by 2.
+
+
+s
+lhs
+axlhs
+:maxlhs
+er:maxlhs
+nner:maxlhs
+lanner:maxlhs
+:planner:maxlhs
+AB:planner:maxlhs
+TLAB:planner:maxlhs
+MATLAB:planner:maxlhs
+.
+ed.
+ired.
+quired.
+required.
+t required.
+ent required.
+ument required.
+rgument required.
+ argument required.
+ut argument required.
+tput argument required.
+output argument required.
+e output argument required.
+One output argument required.
+s
+uts
+nputs
+mInputs
+NumInputs
+idNumInputs
+alidNumInputs
+nvalidNumInputs
+:invalidNumInputs
+er:invalidNumInputs
+nner:invalidNumInputs
+lanner:invalidNumInputs
+:planner:invalidNumInputs
+AB:planner:invalidNumInputs
+TLAB:planner:invalidNumInputs
+MATLAB:planner:invalidNumInputs
+
+
+.
+ed.
+ired.
+quired.
+required.
+s required.
+nts required.
+ments required.
+guments required.
+arguments required.
+t arguments required.
+put arguments required.
+input arguments required.
+x input arguments required.
+Six input arguments required.
+
+
+%d
+
+: %d
+
+ h: %d
+
+d, h: %d
+
+ %d, h: %d
+
+t: %d, h: %d
+
+, t: %d, h: %d
+
+%d, t: %d, h: %d
+
+: %d, t: %d, h: %d
+
+ y: %d, t: %d, h: %d
+
+d, y: %d, t: %d, h: %d
+
+ %d, y: %d, t: %d, h: %d
+
+x: %d, y: %d, t: %d, h: %d
+
+- x: %d, y: %d, t: %d, h: %d
+
+' - x: %d, y: %d, t: %d, h: %d
+
+ s' - x: %d, y: %d, t: %d, h: %d
+
+de s' - x: %d, y: %d, t: %d, h: %d
+
+node s' - x: %d, y: %d, t: %d, h: %d
+
+
+
+
+
+d
+
+=%d
+
+ t=%d
+
+d, t=%d
+
+=%d, t=%d
+
