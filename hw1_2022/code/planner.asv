@@ -80,10 +80,7 @@ long long linearize(int x, int y, int t, int width, int height, int duration) {
 }
 
 // Trace back to the starting node while sending data to a file
-void traceback(std::shared_ptr<node> s, int initial_x, int initial_y, int target_steps) {
-    
-    // Record the goal coordinates
-    path_node n_goal = {s->c->x, s->c->y};
+void traceback(std::shared_ptr<node> s, int initial_x, int initial_y) {
     
     // Check if we've reached the starting node
     while (s->c->x != initial_x || s->c->y != initial_y) {
@@ -101,10 +98,9 @@ void traceback(std::shared_ptr<node> s, int initial_x, int initial_y, int target
         s = s->parent;
     }
     
-    // Insert to the front to wait in place for the rest of the duration
-    while (target_steps > robot_path.size()) {
-        robot_path.insert(robot_path.begin(), n_goal);
-    }
+    
+    
+    
 }
 
 
@@ -267,6 +263,17 @@ static void planner(
         // Add the shared node pointer coresponding to the starting node onto the OPEN queue
         OPEN.push(space[key]);
 
+        /*
+        // Test the ability to create a key and find an existing node
+        printf("Robot is at x: %d, y: %d\n", robotposeX, robotposeY);
+        long long key2 = linearize(robotposeX, robotposeY, 0, x_size, y_size, target_steps);
+        if (space[key2]->c->x = robotposeX && space[key2]->c->y == robotposeY) {
+            printf("node found at x: %d, y: %d, t: %d, h: %d\n", space[key]->c->x, space[key]->c->y, space[key]->t, space[key]->c->h);
+        }
+        printf("cell s - x: %d, y: %d, h: %d\n", grid[robotposeX][robotposeY].x, grid[robotposeX][robotposeY].y, grid[robotposeX][robotposeY].h);
+        printf("key 1: %d, key 2: %d\n", key, key2);
+        */
+
         // Begin the A* algorithm and continue expanding nodes until OPEN is empty (or a goal node is reached)
         while (!OPEN.empty()) {
 
@@ -285,7 +292,7 @@ static void planner(
                 printf("Goal state reached at: x=%d, y=%d, t=%d\n", s->c->x, s->c->y, s->t);
 
                 // Run the traceback function to determine the past coordinates and copy to a file
-                traceback(s, robotposeX, robotposeY, target_steps);
+                traceback(s, robotposeX, robotposeY);
 
                 // Break out of the while loop
                 break;
